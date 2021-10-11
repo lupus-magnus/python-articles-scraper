@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "python-medium-articles"
+name = "python-tech-articles"
 version = "0.1.0"
 description = ""
 authors = ["Lobo <matheuscardoso1@poli.ufrj.br>"]

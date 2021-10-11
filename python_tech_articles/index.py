@@ -1,6 +1,5 @@
-from json import encoder
-import requests
 import json
+import requests
 from bs4 import BeautifulSoup
 
 endpoint = "https://www.tecmundo.com.br/busca?q=python"
